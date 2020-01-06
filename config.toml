@@ -1,4 +1,4 @@
-baseURL = "http://s47.dev/"
+baseURL = "https://s47.dev/"
 languageCode = "en-us"
 title = "Blog: Steve Burns"
 theme = "ananke"
